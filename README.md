@@ -23,6 +23,6 @@
 ~ $ git clone https://github.com/tomosatoP/DerestaEpisode.git
 ~/DerestaEpisode $ python3 -m venv venv --upgrade-deps
 ~/DerestaEpisode $ . venv/bin/activate
-(venv) ~/DerestaEpisode $ pip install requests beatifulsoup4
+(venv) ~/DerestaEpisode $ pip install requests beautifulsoup4
 (venv) ~/DerestaEpisode $ python3 datalist.py
 ~~~
